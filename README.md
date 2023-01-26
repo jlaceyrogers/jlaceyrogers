@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlaceyrogers
 - 👀 I’m interested in mobile and web applications
-- 🌱 I’m currently learning C#, Java, html, and swift
+- 🌱 I’m currently learning: Java, html, CSS, and swift
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me is message me here
 
